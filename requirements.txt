@@ -1,0 +1,4 @@
+Theano
+Keras
+seaborn
+tqdm
